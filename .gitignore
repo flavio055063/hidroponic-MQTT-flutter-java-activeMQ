@@ -1,0 +1,22 @@
+backend/target/
+frontend/.dart_tool/
+frontend/build/
+.DS_Store
+
+frontend/screenshots/
+
+# Binary assets (prevent new binary uploads in PRs)
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.ico
+**/*.icns
+**/*.bmp
+**/*.psd
+**/*.tif
+**/*.tiff
+**/*.webp
+
+# Archives
+*.zip
